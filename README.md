@@ -23,3 +23,6 @@ Core Objective: Reducing churn through behavioral and service-related insights.
 Primary Drivers: Service complaints, high international rates, and low engagement with value-added services.
 
 Financial Impact: Moving from reactive service to "Smart Retention" to protect Customer Lifetime Value (CLV).
+<img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/85f4e81d-9d90-4737-a24a-287e001cc4de" />
+
+
