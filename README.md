@@ -1,28 +1,3 @@
+### Telecommunications ChurnQuest
 
-
-1. The Strategic Executive Summary
-Focus: Revenue protection, competitive edge, and business transformation. ChurnQuest is a data-driven initiative designed to stabilize Airtel’s market share by transforming how the company handles customer retention. Rather than reacting to lost accounts, this project identifies the behavioral triggers—such as service friction and pricing pain points—that precede churn. By quantifying the economic impact of customer loss and segmenting high-risk users, the study provides a blueprint for personalized service models and proactive engagement. The goal is to shift Airtel from a traditional reactive stance to a predictive, loyalty-focused strategy that secures long-term profitability.
-
-2. The Data Science & Analytics Overview
-Focus: Methodology, modeling, and technical variables. This project applies advanced analytical techniques, including clustering, interaction studies, and predictive modeling, to Airtel’s customer lifecycle data. By correlating churn with specific variables—such as international plan costs, service complaint frequency, and "stickiness" of value-added services—the analysis identifies the exact threshold where a customer becomes a flight risk. The study utilizes economic evaluation and trend analysis to build a risk-scoring framework, allowing for automated, data-backed interventions in segments with the highest churn probability and greatest lifetime value.
-
-3. The "Problem-Solution" Narrative
-Focus: The transition from attrition to retention.
-
-The Challenge: Airtel faced rising attrition driven by high service charges and customer dissatisfaction, leading to direct revenue erosion.
-
-The Analysis: "ChurnQuest" deep-dived into usage patterns, discovering that new customers and those with high international usage were the most vulnerable.
-
-The Solution: The project developed targeted onboarding programs for new users and personalized pricing plans for high-usage segments to mitigate "bill shock."
-
-The Result: A strategic pivot toward proactive customer experience management, ensuring that issues are resolved before they lead to a cancellation request.
-
-Key Highlights for Your Project Portfolio
-Core Objective: Reducing churn through behavioral and service-related insights.
-
-Primary Drivers: Service complaints, high international rates, and low engagement with value-added services.
-
-Financial Impact: Moving from reactive service to "Smart Retention" to protect Customer Lifetime Value (CLV).
-<img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/85f4e81d-9d90-4737-a24a-287e001cc4de" />
-
-
+The ChurnQuest project focuses on understanding and reducing customer churn at Airtel through data-driven insights. With increasing customer discontinuation affecting revenue and market share, the goal is to analyze behavioral and service-related factors that contribute to churn and provide actionable solutions for retention.Using customer demographic and usage data, the analysis explores patterns in service charges, call durations, customer service complaints, and plan subscriptions (e.g., international or voicemail plans). Advanced analytical techniques—including statistical modeling, trend analysis, clustering, interaction studies, and economic evaluation—were applied to uncover key insights.The results help identify high-risk customer segments, critical behavioral triggers of churn, seasonal trends, and the financial consequences of customer loss. These findings enable the company to implement targeted retention strategies, personalize service offerings, and proactively address customer dissatisfaction.The ChurnQuest analysis reveals that customer churn at Airtel is strongly influenced by usage behavior, customer service interactions, plan subscriptions, call charges, and tenure. Key factors such as frequent service complaints, costly international usage, and lower engagement with value-added services significantly increase churn likelihood. Additionally, newer customers and those with specific usage patterns are more vulnerable, highlighting the need for targeted onboarding and personalized plans.Through predictive modeling, segmentation, and economic impact assessment, the project demonstrates that proactive customer retention strategies can effectively reduce churn and improve long-term profitability. By focusing on high-risk customer groups, optimizing pricing and service quality, and prioritizing customer experience, Airtel can shift from a reactive approach to a smart, data-driven retention strategy. Ultimately, reducing churn is not just a technical task—it is a strategic investment that strengthens customer loyalty, enhances competitive advantage, and drives sustainable growth.
