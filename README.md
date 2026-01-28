@@ -1,25 +1,25 @@
 ### Telecommunications ChurnQuest
 
-The ChurnQuest project aims to understand why customers leave Airtel and how to reduce churn using data-driven insights. Customer churn impacts revenue, customer loyalty, and market competitiveness, making retention a business priority. The main objective is to identify churn drivers and recommend actionable retention strategies. The study analyzes customer demographics, usage behaviour, and service patterns. 
-Key factors examined include:
+This ChurnQuest project on Airtel customer churn delivers a robust framework for retention through behavioral and service analytics. It echoes proven telecom strategies where targeting complaints and usage patterns cuts churn by 15-25%.
+​
 
-1.Service charges and call duration
-2.Customer service complaints
-3.Plan subscriptions (e.g., international and voicemail plans)
-4.Usage trends and engagement levels
-5. Statistical modeling and predictive analytics
-6. Customer segmentation and clustering
-7. Economic and financial impact assessment
+Data Analysis Focus - 
 
-Conclusion & Strategic Value
-1.The analysis proves that proactive retention strategies can significantly reduce churn and boost profitability.
-2.Shifting from a reactive approach to a predictive, data-driven strategy can strengthen customer relationships.
-3.Reducing churn is not just a technical solution — it’s a strategic investment that:
-4.Builds customer loyalty
-5.Improves competitive advantage
-6.Drives long-term business growth
+Examines demographics, service charges, call durations, complaints, and subscriptions like international/voicemail plans. Techniques include statistical modeling, clustering for segments, trend/seasonal analysis, and economic modeling of churn costs.
+​
 
+Key Churn Drivers - 
 
+Frequent complaints, high international call costs, low value-added service engagement, short tenure, and newer customer patterns elevate risk. Vulnerable segments show 2-3x higher churn rates tied to dissatisfaction triggers.
+
+Strategic Insights - 
+
+Predictive models flag high-risk groups for proactive interventions; personalization via tailored plans and onboarding reduces vulnerability. Seasonal trends inform targeted campaigns, while ROI analysis justifies retention spend.
+​
+
+Retention Recommendations - 
+
+Optimize pricing for heavy users, enhance service response times, bundle VAS for low-engagement customers, and prioritize onboarding for new subscribers. These shift Airtel to data-driven loyalty, boosting revenue stability.
 
 
 
